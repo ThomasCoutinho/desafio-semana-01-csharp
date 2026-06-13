@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="DesafioBonusCalcularMedia/ExercicioBonusCalcularMedia.csproj" />
+  <Project Path="Exercicio1ApresentacaoPessoal/Exercicio1ApresentacaoPessoal.csproj" />
+  <Project Path="Exercicio2CadastroDeProduto/Exercicio2CadastroDeProduto.csproj" />
+  <Project Path="Exercicio3CalculadoraSimples/Exercicio3CalculadoraSimples.csproj" />
+  <Project Path="Exercicio4VerificadorDeIdade/Exercicio4VerificadorDeIdade.csproj" />
+  <Project Path="Exercicio5PrimeiraFuncao/Exercicio5PrimeiraFuncao.csproj" />
+</Solution>
