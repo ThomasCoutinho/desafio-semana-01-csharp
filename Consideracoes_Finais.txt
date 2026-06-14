@@ -1,0 +1,4 @@
+Essa atividade foi muito boa para por em prática os conceitos básicos aprendidos em C#, mas principalmente para começar a utilizar o GitHub.
+Aprendi a criar um repositório e utilizar o git status, git commit e o git push.
+
+Estou ansioso para os novos desafios.
