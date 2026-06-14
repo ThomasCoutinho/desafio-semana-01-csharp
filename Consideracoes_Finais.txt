@@ -1,4 +1,8 @@
 Essa atividade foi muito boa para por em prática os conceitos básicos aprendidos em C#, mas principalmente para começar a utilizar o GitHub.
 Aprendi a criar um repositório e utilizar o git status, git commit e o git push.
 
+Procurei deixar todos os códigos num padrão para ficar bem apresentável no console.
+
+Com exceção ao exercício 1 de apresentação de um cartão Pessoal, os demais eu optei por utilizar o Console.ReadLine() para receber as informações do usuário ao invés que criar as variáveis com os valores pré-definidos
+
 Estou ansioso para os novos desafios.
