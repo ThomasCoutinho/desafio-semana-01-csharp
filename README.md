@@ -2,23 +2,25 @@
 
 Exercícios de introdução a C#
 
+
 Desafio da Semana #05 - Meu Primeiro Portfólio de Programação
 
-Objetivo
 
-Criar um repositório no GitHub contendo 5 programas em C# Console utilizando os conceitos aprendidos até agora.
+Objetivo: Criar um repositório no GitHub contendo 5 programas em C# Console utilizando os conceitos aprendidos até agora.
+
 
 O que deve ser entregue?
 
-Um repositório chamado:
-
-desafio-semana-01-csharp
+Um repositório chamado: desafio-semana-01-csharp
 
 ​
 
 Dentro dele devem existir os seguintes programas:
 
+
 Exercício 1 - Apresentação Pessoal
+
+
 
 Crie um programa que exiba no console:
 
@@ -50,7 +52,13 @@ Variáveis
 
 Console.WriteLine()
 
+--------------------------------------------------------------------
+
+
+
 Exercício 2 - Cadastro de Produto
+
+
 
 Crie variáveis para armazenar:
 
@@ -76,9 +84,17 @@ Quantidade: 15
 
 Conceitos praticados
 
-Uso e criação de variáveis 
+Uso e criação de variáveis
+
+
+
+\--------------------------------------------------------------------
+
+
 
 Exercício 3 - Calculadora Simples
+
+
 
 Crie duas variáveis numéricas e mostre:
 
@@ -108,7 +124,15 @@ Conceitos praticados
 
 Operadores aritméticos
 
+
+
+\--------------------------------------------------------------------
+
+
+
 Exercício 4 - Verificador de Idade
+
+
 
 Crie uma variável idade.
 
@@ -130,7 +154,15 @@ Operadores relacionais
 
 Operador ternário
 
+
+
+\--------------------------------------------------------------------
+
+
+
 Exercício 5 - Primeira Função
+
+
 
 Crie uma função chamada:
 
@@ -150,11 +182,17 @@ Conceitos praticados
 
 Métodos/Funções
 
-🔥 Desafio Bônus
 
-Crie uma função chamada:
 
-CalcularMedia
+\--------------------------------------------------------------------
+
+
+
+Desafio Bônus
+
+
+
+Crie uma função chamada: CalcularMedia
 
 ​
 
@@ -174,9 +212,9 @@ Média: 8
 
 
 
+\--------------------------------------------------------------------
+
+
+
 https://www.notion.so/Conte-do-Base-Introdu-o-ao-C-376e0a7fa6c98012aaadf09735d85a7b
-
-
-
-
 
